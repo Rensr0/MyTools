@@ -47,7 +47,7 @@
 
 ```bash
 pip install opencv-python numpy pyautogui pygetwindow
-
+```
 
 #### 贡献
 
